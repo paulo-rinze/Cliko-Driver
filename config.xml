@@ -35,8 +35,8 @@
 	<gap:plugin name="cordova-plugin-media" source="npm" spec="3.0.0" />	
 		   
     <gap:plugin name="cordova-plugin-googlemaps-plus" source="npm" >
-       <param name="API_KEY_FOR_ANDROID" value="" />
-       <param name="API_KEY_FOR_IOS" value="" />
+       <param name="API_KEY_FOR_ANDROID" value="AIzaSyC3DJ5XaYN9Cpw66LX-kCZ8Ao2b2AaOQ0c" />
+       <param name="API_KEY_FOR_IOS" value="AIzaSyC3DJ5XaYN9Cpw66LX-kCZ8Ao2b2AaOQ0c" />
        <param name="LOCATION_WHEN_IN_USE_DESCRIPTION" value="Karenderia wants to use your location" />
        <param name="LOCATION_ALWAYS_USAGE_DESCRIPTION" value="Karenderia want to always use your location" />
     </gap:plugin>
